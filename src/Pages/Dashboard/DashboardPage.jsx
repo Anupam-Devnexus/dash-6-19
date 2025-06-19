@@ -7,7 +7,7 @@ import newuserData from '../../DataStore/TotalDb.json'
 import TotalLogin from '../../DataStore/LoginUser.json'
 import { useNavigate } from "react-router-dom";
 import BidChart from "../../Components/Charts/BidChart";
-import LoginChart from "../../Components/Charts/loginChart";
+import LoginChart from "../../Components/Charts/LoginChart";
 import VisitorsChart from "../../Components/Charts/VisitorsChart";
 import NewUserChart from "../../Components/Charts/NewUserChart";
 import GetAllUser from "../../Zustand/GetApi/GetAllUser/GetAllUser";
