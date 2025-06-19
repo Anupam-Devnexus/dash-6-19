@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "clientname": "Meera Singh",
+    "profilePicture": "https://randomuser.me/api/portraits/women/14.jpg",
+    "star": 5,
+    "reviewHead": "Superb Service & Product",
+    "review": "I ordered 1000 bricks for a house project. Not a single one was damaged!"
+  },
+  {
+    "id": 2,
+    "clientname": "Aditya Joshi",
+    "profilePicture": "https://randomuser.me/api/portraits/men/15.jpg",
+    "star": 4,
+    "reviewHead": "Great Bricks for Budget Builds",
+    "review": "Excellent value for money. Would order again for future projects."
+  },
+  {
+    "id": 3,
+    "clientname": "Sanya Kapoor",
+    "profilePicture": "https://randomuser.me/api/portraits/women/16.jpg",
+    "star": 3,
+    "reviewHead": "Average Experience",
+    "review": "Delivery took longer than expected, but product quality is good."
+  },
+  {
+    "id": 4,
+    "clientname": "Raghav Verma",
+    "profilePicture": "https://randomuser.me/api/portraits/men/17.jpg",
+    "star": 5,
+    "reviewHead": "Perfect for My Dream Home",
+    "review": "Very satisfied! The texture and strength are just what I needed."
+  },
+  {
+    "id": 5,
+    "clientname": "Ishita Nair",
+    "profilePicture": "https://randomuser.me/api/portraits/women/18.jpg",
+    "star": 5,
+    "reviewHead": "Excellent Build Quality",
+    "review": "These bricks are solid, uniform, and visually appealing. Great job!"
+  },
+  {
+    "id": 6,
+    "clientname": "Vikram Rana",
+    "profilePicture": "https://randomuser.me/api/portraits/men/19.jpg",
+    "star": 4,
+    "reviewHead": "Very Reliable Supplier",
+    "review": "They’ve become my go-to supplier for construction material."
+  },
+  {
+    "id": 7,
+    "clientname": "Tanya Dutt",
+    "profilePicture": "https://randomuser.me/api/portraits/women/20.jpg",
+    "star": 4,
+    "reviewHead": "Good Customer Service",
+    "review": "Helpful staff and quality material. Would recommend to builders."
+  },
+  {
+    "id": 8,
+    "clientname": "Neeraj Jain",
+    "profilePicture": "https://randomuser.me/api/portraits/men/21.jpg",
+    "star": 5,
+    "reviewHead": "Rock Solid Bricks",
+    "review": "Bricks are exactly as described – tough and weather-resistant."
+  },
+  {
+    "id": 9,
+    "clientname": "Shruti Desai",
+    "profilePicture": "https://randomuser.me/api/portraits/women/22.jpg",
+    "star": 5,
+    "reviewHead": "Best Purchase Ever",
+    "review": "I’ve used bricks from 3 suppliers – this one beats them all!"
+  },
+  {
+    "id": 10,
+    "clientname": "Karan Bhatia",
+    "profilePicture": "https://randomuser.me/api/portraits/men/23.jpg",
+    "star": 4,
+    "reviewHead": "Fast Delivery, Decent Quality",
+    "review": "Got the bricks delivered in just 2 days. Very happy with the service."
+  },
+  {
+    "id": 11,
+    "clientname": "Pooja Mehta",
+    "profilePicture": "https://randomuser.me/api/portraits/women/24.jpg",
+    "star": 5,
+    "reviewHead": "Highly Recommended",
+    "review": "Flawless bricks and excellent support team. Five stars from me!"
+  },
+  {
+    "id": 12,
+    "clientname": "Aman Rawat",
+    "profilePicture": "https://randomuser.me/api/portraits/men/25.jpg",
+    "star": 3,
+    "reviewHead": "Could Be Better",
+    "review": "Quality is okay, but packaging could be improved."
+  }
+]

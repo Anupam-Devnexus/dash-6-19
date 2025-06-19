@@ -1,0 +1,98 @@
+[
+  {
+    "month": "January",
+    "visitors": 12000,
+    "uniqueUsers": 8500,
+    "pageViews": 32000,
+    "bounceRate": 47.5,
+    "avgSessionDuration": "00:02:35"
+  },
+  {
+    "month": "February",
+    "visitors": 13500,
+    "uniqueUsers": 9200,
+    "pageViews": 35500,
+    "bounceRate": 45.8,
+    "avgSessionDuration": "00:02:47"
+  },
+  {
+    "month": "March",
+    "visitors": 14200,
+    "uniqueUsers": 9700,
+    "pageViews": 37200,
+    "bounceRate": 44.2,
+    "avgSessionDuration": "00:02:51"
+  },
+  {
+    "month": "April",
+    "visitors": 16000,
+    "uniqueUsers": 11000,
+    "pageViews": 39500,
+    "bounceRate": 43.0,
+    "avgSessionDuration": "00:03:01"
+  },
+  {
+    "month": "May",
+    "visitors": 17500,
+    "uniqueUsers": 12000,
+    "pageViews": 42000,
+    "bounceRate": 42.3,
+    "avgSessionDuration": "00:03:05"
+  },
+  {
+    "month": "June",
+    "visitors": 16800,
+    "uniqueUsers": 11600,
+    "pageViews": 41000,
+    "bounceRate": 43.7,
+    "avgSessionDuration": "00:02:59"
+  },
+  {
+    "month": "July",
+    "visitors": 18000,
+    "uniqueUsers": 12400,
+    "pageViews": 43000,
+    "bounceRate": 42.0,
+    "avgSessionDuration": "00:03:08"
+  },
+  {
+    "month": "August",
+    "visitors": 19000,
+    "uniqueUsers": 13000,
+    "pageViews": 46000,
+    "bounceRate": 41.6,
+    "avgSessionDuration": "00:03:11"
+  },
+  {
+    "month": "September",
+    "visitors": 17500,
+    "uniqueUsers": 12200,
+    "pageViews": 42000,
+    "bounceRate": 42.9,
+    "avgSessionDuration": "00:03:03"
+  },
+  {
+    "month": "October",
+    "visitors": 18500,
+    "uniqueUsers": 12800,
+    "pageViews": 44500,
+    "bounceRate": 41.8,
+    "avgSessionDuration": "00:03:10"
+  },
+  {
+    "month": "November",
+    "visitors": 17000,
+    "uniqueUsers": 11900,
+    "pageViews": 41000,
+    "bounceRate": 43.5,
+    "avgSessionDuration": "00:02:58"
+  },
+  {
+    "month": "December",
+    "visitors": 19500,
+    "uniqueUsers": 13500,
+    "pageViews": 47500,
+    "bounceRate": 40.9,
+    "avgSessionDuration": "00:03:15"
+  }
+]

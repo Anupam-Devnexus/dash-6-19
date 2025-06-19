@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "productType": "Commercial",
+    "title": "Red Solid Brick",
+    "size": "230x110x70 mm",
+    "shape": "Rectangular",
+    "color": "Red",
+    "supplyAbility": "50000 per month",
+    "minimumOrder": "1000",
+    "productImage": "https://images.pexels.com/photos/912124/pexels-photo-912124.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 2,
+    "productType": "Residential",
+    "title": "Wire Cut Brick",
+    "size": "215x102x65 mm",
+    "shape": "Rectangular",
+    "color": "Brown",
+    "supplyAbility": "30000 per month",
+    "minimumOrder": "500",
+    "productImage": "https://images.pexels.com/photos/912124/pexels-photo-912124.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 3,
+    "productType": "Paver",
+    "title": "Interlocking Paver Brick",
+    "size": "200x100x80 mm",
+    "shape": "Zigzag",
+    "color": "Grey",
+    "supplyAbility": "70000 per month",
+    "minimumOrder": "1000",
+    "productImage": "https://images.pexels.com/photos/1022692/pexels-photo-1022692.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 4,
+    "productType": "Hollow",
+    "title": "Lightweight Hollow Brick",
+    "size": "400x200x200 mm",
+    "shape": "Cuboid",
+    "color": "Red",
+    "supplyAbility": "20000 per month",
+    "minimumOrder": "300",
+    "productImage": "https://images.pexels.com/photos/220166/pexels-photo-220166.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 5,
+    "productType": "Commercial",
+    "title": "Fly Ash Brick",
+    "size": "230x110x75 mm",
+    "shape": "Rectangular",
+    "color": "Light Grey",
+    "supplyAbility": "100000 per month",
+    "minimumOrder": "2000",
+    "productImage": "https://images.pexels.com/photos/189451/pexels-photo-189451.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 6,
+    "productType": "Residential",
+    "title": "Perforated Clay Brick",
+    "size": "230x110x70 mm",
+    "shape": "Rectangular",
+    "color": "Terracotta",
+    "supplyAbility": "15000 per month",
+    "minimumOrder": "400",
+    "productImage": "https://images.pexels.com/photos/2273488/pexels-photo-2273488.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 7,
+    "productType": "Paver",
+    "title": "Hexagonal Paver Brick",
+    "size": "220x220x80 mm",
+    "shape": "Hexagon",
+    "color": "Charcoal",
+    "supplyAbility": "60000 per month",
+    "minimumOrder": "1500",
+    "productImage": "https://images.pexels.com/photos/1172201/pexels-photo-1172201.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 8,
+    "productType": "Hollow",
+    "title": "Concrete Hollow Block",
+    "size": "400x200x100 mm",
+    "shape": "Cuboid",
+    "color": "Grey",
+    "supplyAbility": "40000 per month",
+    "minimumOrder": "500",
+    "productImage": "https://images.pexels.com/photos/1172201/pexels-photo-1172201.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 9,
+    "productType": "Commercial",
+    "title": "Engineering Brick",
+    "size": "215x102x65 mm",
+    "shape": "Rectangular",
+    "color": "Dark Red",
+    "supplyAbility": "35000 per month",
+    "minimumOrder": "600",
+    "productImage": "https://images.pexels.com/photos/1917328/pexels-photo-1917328.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 10,
+    "productType": "Residential",
+    "title": "Mud Brick",
+    "size": "240x120x75 mm",
+    "shape": "Rectangular",
+    "color": "Natural",
+    "supplyAbility": "10000 per month",
+    "minimumOrder": "200",
+    "productImage": "https://images.pexels.com/photos/3752575/pexels-photo-3752575.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 11,
+    "productType": "Paver",
+    "title": "Brick Paver Block",
+    "size": "200x100x60 mm",
+    "shape": "Rectangular",
+    "color": "Red",
+    "supplyAbility": "80000 per month",
+    "minimumOrder": "1000",
+    "productImage": "https://images.pexels.com/photos/60573/vaulted-cellar-tunnel-arches-keller-60573.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 12,
+    "productType": "Hollow",
+    "title": "Clay Hollow Brick",
+    "size": "300x150x100 mm",
+    "shape": "Rectangular",
+    "color": "Terracotta",
+    "supplyAbility": "25000 per month",
+    "minimumOrder": "350",
+    "productImage": "https://images.pexels.com/photos/2125441/pexels-photo-2125441.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 13,
+    "productType": "Commercial",
+    "title": "AAC Block",
+    "size": "600x200x150 mm",
+    "shape": "Rectangular",
+    "color": "White",
+    "supplyAbility": "90000 per month",
+    "minimumOrder": "1000",
+    "productImage": "https://images.pexels.com/photos/692063/pexels-photo-692063.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 14,
+    "productType": "Residential",
+    "title": "Burnt Clay Brick",
+    "size": "230x110x75 mm",
+    "shape": "Rectangular",
+    "color": "Orange",
+    "supplyAbility": "18000 per month",
+    "minimumOrder": "500",
+    "productImage": "https://images.pexels.com/photos/159490/yale-university-landscape-universities-schools-159490.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 15,
+    "productType": "Paver",
+    "title": "I-Shape Paver Block",
+    "size": "200x160x80 mm",
+    "shape": "I-Shape",
+    "color": "Yellow",
+    "supplyAbility": "55000 per month",
+    "minimumOrder": "800",
+    "productImage": "https://images.pexels.com/photos/32255784/pexels-photo-32255784/free-photo-of-historic-architecture-in-cesis-latvia.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 16,
+    "productType": "Hollow",
+    "title": "Red Hollow Brick",
+    "size": "300x150x150 mm",
+    "shape": "Rectangular",
+    "color": "Red",
+    "supplyAbility": "30000 per month",
+    "minimumOrder": "400",
+    "productImage": "https://images.pexels.com/photos/32255783/pexels-photo-32255783/free-photo-of-historic-brick-building-in-cesis-latvia.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 17,
+    "productType": "Commercial",
+    "title": "Sand Lime Brick",
+    "size": "228x107x69 mm",
+    "shape": "Rectangular",
+    "color": "Grey",
+    "supplyAbility": "48000 per month",
+    "minimumOrder": "700",
+    "productImage": "https://images.pexels.com/photos/32255783/pexels-photo-32255783/free-photo-of-historic-brick-building-in-cesis-latvia.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 18,
+    "productType": "Residential",
+    "title": "Traditional Clay Brick",
+    "size": "240x115x70 mm",
+    "shape": "Rectangular",
+    "color": "Brownish Red",
+    "supplyAbility": "12000 per month",
+    "minimumOrder": "300",
+    "productImage": "https://images.pexels.com/photos/164457/pexels-photo-164457.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 19,
+    "productType": "Paver",
+    "title": "Square Paver Brick",
+    "size": "150x150x60 mm",
+    "shape": "Square",
+    "color": "Tan",
+    "supplyAbility": "65000 per month",
+    "minimumOrder": "900",
+    "productImage": "/images/bricks/square-paver.jpg"
+  },
+  {
+    "id": 20,
+    "productType": "Hollow",
+    "title": "Ventilated Hollow Block",
+    "size": "390x190x190 mm",
+    "shape": "Rectangular",
+    "color": "Light Brown",
+    "supplyAbility": "22000 per month",
+    "minimumOrder": "300",
+    "productImage": "https://images.pexels.com/photos/164457/pexels-photo-164457.jpeg?auto=compress&cs=tinysrgb&w=600"
+  }
+]

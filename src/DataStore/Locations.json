@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "icon": "FaMapMarkerAlt",
+    "office": "Mumbai Office",
+    "add1": "1079, Block B, Vegas Mall, Sector 14",
+    "add2": "Dwarka, Mumbai, 110075"
+  },
+  {
+    "id": 2,
+    "icon": "FaBuilding",
+    "office": "Delhi Headquarters",
+    "add1": "4th Floor, Tower A, Connaught Place",
+    "add2": "New Delhi, 110001"
+  },
+  {
+    "id": 3,
+    "icon": "MdLocationOn",
+    "office": "Bangalore Branch",
+    "add1": "HSR Layout, 27th Main Rd, Sector 2",
+    "add2": "Bangalore, Karnataka, 560102"
+  },
+  {
+    "id": 4,
+    "icon": "FaWarehouse",
+    "office": "Hyderabad Storage",
+    "add1": "Kukatpally Industrial Area",
+    "add2": "Hyderabad, Telangana, 500072"
+  },
+  {
+    "id": 5,
+    "icon": "GiFactory",
+    "office": "Pune Manufacturing Unit",
+    "add1": "MIDC Industrial Area, Pimpri",
+    "add2": "Pune, Maharashtra, 411018"
+  },
+  {
+    "id": 6,
+    "icon": "RiBuilding2Fill",
+    "office": "Chennai Support Center",
+    "add1": "T Nagar, North Usman Road",
+    "add2": "Chennai, Tamil Nadu, 600017"
+  },
+  {
+    "id": 7,
+    "icon": "HiOfficeBuilding",
+    "office": "Ahmedabad Regional Office",
+    "add1": "S.G. Highway, Prahlad Nagar",
+    "add2": "Ahmedabad, Gujarat, 380015"
+  },
+  {
+    "id": 8,
+    "icon": "GiModernCity",
+    "office": "Kolkata Operations",
+    "add1": "Salt Lake City, Sector V",
+    "add2": "Kolkata, West Bengal, 700091"
+  },
+  {
+    "id": 9,
+    "icon": "BsPinMapFill",
+    "office": "Indore Admin Office",
+    "add1": "RNT Marg, Regal Square",
+    "add2": "Indore, Madhya Pradesh, 452001"
+  },
+  {
+    "id": 10,
+    "icon": "FaCity",
+    "office": "Lucknow Client Relations",
+    "add1": "Hazratganj, MG Road",
+    "add2": "Lucknow, Uttar Pradesh, 226001"
+  },
+  {
+    "id": 11,
+    "icon": "TbBuildingSkyscraper",
+    "office": "Jaipur Sales Office",
+    "add1": "MI Road, Ganpati Plaza",
+    "add2": "Jaipur, Rajasthan, 302001"
+  },
+  {
+    "id": 12,
+    "icon": "SiGooglemaps",
+    "office": "Bhopal Resource Center",
+    "add1": "MP Nagar Zone 1",
+    "add2": "Bhopal, Madhya Pradesh, 462011"
+  },
+  {
+    "id": 13,
+    "icon": "MdBusiness",
+    "office": "Nagpur Design Hub",
+    "add1": "Dharampeth Extension",
+    "add2": "Nagpur, Maharashtra, 440010"
+  },
+  {
+    "id": 14,
+    "icon": "BiBuildingHouse",
+    "office": "Surat Customer Office",
+    "add1": "Citylight Area, Ghod Dod Road",
+    "add2": "Surat, Gujarat, 395007"
+  }
+]

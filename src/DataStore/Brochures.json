@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Company Profile 2024"
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/210647/pexels-photo-210647.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Annual Report"
+  },
+  {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/256658/pexels-photo-256658.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Marketing Strategy"
+  },
+  {
+    "id": 4,
+    "image": "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Sustainability Report"
+  },
+  {
+    "id": 5,
+    "image": "https://images.pexels.com/photos/3183186/pexels-photo-3183186.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Product Catalogue"
+  },
+  {
+    "id": 6,
+    "image": "https://images.pexels.com/photos/3184302/pexels-photo-3184302.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Investor Brochure"
+  },
+  {
+    "id": 7,
+    "image": "https://images.pexels.com/photos/3184634/pexels-photo-3184634.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Startup Pitch Deck"
+  },
+  {
+    "id": 8,
+    "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Health & Safety Manual"
+  },
+  {
+    "id": 9,
+    "image": "https://images.pexels.com/photos/3184468/pexels-photo-3184468.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "CSR Initiatives"
+  },
+  {
+    "id": 10,
+    "image": "https://images.pexels.com/photos/3183171/pexels-photo-3183171.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Training Guide"
+  },
+  {
+    "id": 11,
+    "image": "https://images.pexels.com/photos/3184466/pexels-photo-3184466.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Technology Roadmap"
+  },
+  {
+    "id": 12,
+    "image": "https://images.pexels.com/photos/3183174/pexels-photo-3183174.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Customer Testimonials"
+  },
+  {
+    "id": 13,
+    "image": "https://images.pexels.com/photos/3183180/pexels-photo-3183180.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Product Launch Plan"
+  },
+  {
+    "id": 14,
+    "image": "https://images.pexels.com/photos/3184305/pexels-photo-3184305.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Corporate Social Responsibility"
+  },
+  {
+    "id": 15,
+    "image": "https://images.pexels.com/photos/3183183/pexels-photo-3183183.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Employee Handbook"
+  },
+  {
+    "id": 16,
+    "image": "https://images.pexels.com/photos/3184638/pexels-photo-3184638.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Investor Presentation"
+  },
+  {
+    "id": 17,
+    "image": "https://images.pexels.com/photos/3183185/pexels-photo-3183185.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Business Continuity Plan"
+  },
+  {
+    "id": 18,
+    "image": "https://images.pexels.com/photos/3184295/pexels-photo-3184295.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Annual Financial Summary"
+  },
+  {
+    "id": 19,
+    "image": "https://images.pexels.com/photos/3183178/pexels-photo-3183178.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Market Analysis"
+  },
+  {
+    "id": 20,
+    "image": "https://images.pexels.com/photos/3183179/pexels-photo-3183179.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "text": "Quality Assurance Manual"
+  }
+]

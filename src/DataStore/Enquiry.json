@@ -1,0 +1,182 @@
+[
+  {
+    "id":1,
+    "name": "Ravi Kumar",
+    "quantity": 500,
+    "message": "Need high-quality red bricks for boundary wall.",
+    "email": "ravi.kumar@example.com",
+    "productName": "Red Clay Brick",
+    "productType": "brick"
+  },
+  {
+     "id":2,
+    "name": "Meena Joshi",
+    "quantity": 300,
+    "message": "Looking for anti-skid tiles for bathroom.",
+    "email": "meena.joshi@example.com",
+    "productName": "Anti-Skid Ceramic Tiles",
+    "productType": "tiles"
+  },
+  {
+     "id":3,
+    "name": "Arun Singh",
+    "quantity": 800,
+    "message": "Want bricks for constructing a garage.",
+    "email": "arun.singh@example.com",
+    "productName": "Fly Ash Brick",
+    "productType": "brick"
+  },
+  {
+     "id":4,
+    "name": "Sonal Patel",
+    "quantity": 600,
+    "message": "Tiles required for kitchen flooring.",
+    "email": "sonal.patel@example.com",
+    "productName": "Glossy Kitchen Tiles",
+    "productType": "tiles"
+  },
+  {
+     "id":5,
+    "name": "Devansh Mehra",
+    "quantity": 1000,
+    "message": "Need material for complete home construction.",
+    "email": "devansh.mehra@example.com",
+    "productName": "Home Build Pack",
+    "productType": "both"
+  },
+  {
+     "id":6,
+    "name": "Pooja Sharma",
+    "quantity": 200,
+    "message": "Tiles required for small terrace area.",
+    "email": "pooja.sharma@example.com",
+    "productName": "Outdoor Terrace Tiles",
+    "productType": "tiles"
+  },
+  {
+     "id":7,
+    "name": "Karan Bedi",
+    "quantity": 700,
+    "message": "Looking for bricks for a retaining wall.",
+    "email": "karan.bedi@example.com",
+    "productName": "Concrete Brick",
+    "productType": "brick"
+  },
+  {
+     "id":8,
+    "name": "Ritika Chauhan",
+    "quantity": 350,
+    "message": "Require tiles for bedroom renovation.",
+    "email": "ritika.chauhan@example.com",
+    "productName": "Wood Finish Tiles",
+    "productType": "tiles"
+  },
+  {
+     "id":9,
+    "name": "Nikhil Verma",
+    "quantity": 1200,
+    "message": "Need both tiles and bricks for office building.",
+    "email": "nikhil.verma@example.com",
+    "productName": "Office Construction Set",
+    "productType": "both"
+  },
+  {
+     "id":10,
+    "name": "Anjali Nair",
+    "quantity": 400,
+    "message": "Looking for stylish tiles for living room.",
+    "email": "anjali.nair@example.com",
+    "productName": "Marble Look Tiles",
+    "productType": "tiles"
+  },
+  {
+     "id":11,
+    "name": "Vikram Das",
+    "quantity": 850,
+    "message": "Bricks needed for backyard shed.",
+    "email": "vikram.das@example.com",
+    "productName": "Burnt Clay Brick",
+    "productType": "brick"
+  },
+  {
+     "id":12,
+    "name": "Shreya Pandey",
+    "quantity": 550,
+    "message": "I want tiles that match my modern interior.",
+    "email": "shreya.pandey@example.com",
+    "productName": "Modern Interior Tiles",
+    "productType": "tiles"
+  },
+  {
+     "id":13,
+    "name": "Aman Gupta",
+    "quantity": 950,
+    "message": "Need both tiles and bricks for farmhouse.",
+    "email": "aman.gupta@example.com",
+    "productName": "Farmhouse Essentials",
+    "productType": "both"
+  },
+  {
+     "id":14,
+    "name": "Neha Rawat",
+    "quantity": 450,
+    "message": "Tiles required for commercial property.",
+    "email": "neha.rawat@example.com",
+    "productName": "Commercial Grade Tiles",
+    "productType": "tiles"
+  },
+  {
+     "id":15,
+    "name": "Rohit Ranjan",
+    "quantity": 1100,
+    "message": "Looking for durable bricks for storage unit.",
+    "email": "rohit.ranjan@example.com",
+    "productName": "Heavy Duty Brick",
+    "productType": "brick"
+  },
+  {
+     "id":16,
+    "name": "Isha Thakur",
+    "quantity": 300,
+    "message": "Want elegant tiles for front porch.",
+    "email": "isha.thakur@example.com",
+    "productName": "Designer Porch Tiles",
+    "productType": "tiles"
+  },
+  {
+     "id":17,
+    "name": "Siddharth Menon",
+    "quantity": 1300,
+    "message": "Tiles and bricks both needed for bungalow.",
+    "email": "siddharth.menon@example.com",
+    "productName": "Bungalow Pack",
+    "productType": "both"
+  },
+  {
+     "id":18,
+    "name": "Tanvi Kapoor",
+    "quantity": 220,
+    "message": "I need slip-resistant tiles for balcony.",
+    "email": "tanvi.kapoor@example.com",
+    "productName": "Balcony Slip-Resistant Tiles",
+    "productType": "tiles"
+  },
+  {
+     "id":19,
+    "name": "Rajeev Rathi",
+    "quantity": 750,
+    "message": "Searching for bricks for garden boundary.",
+    "email": "rajeev.rathi@example.com",
+    "productName": "Garden Red Brick",
+    "productType": "brick"
+  },
+  {
+    "id":20,
+    "name": "Priya Bhatt",
+    "quantity": 1000,
+    "message": "Construction starting soon, need all material.",
+    "email": "priya.bhatt@example.com",
+    "productName": "Complete Building Kit",
+    "productType": "both"
+  }
+]

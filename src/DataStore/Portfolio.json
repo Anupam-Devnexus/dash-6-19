@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "buildingName": "Empire State Building",
+    "image": "https://images.unsplash.com/photo-1549921296-3a6b54d1356b",
+    "place": "New York, USA"
+  },
+  {
+    "id": 2,
+    "buildingName": "Eiffel Tower",
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "place": "Paris, France"
+  },
+  {
+    "id": 3,
+    "buildingName": "Burj Khalifa",
+    "image": "https://images.unsplash.com/photo-1601380381656-47d6ef51ea74",
+    "place": "Dubai, UAE"
+  },
+  {
+    "id": 4,
+    "buildingName": "Sydney Opera House",
+    "image": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b",
+    "place": "Sydney, Australia"
+  },
+  {
+    "id": 5,
+    "buildingName": "Big Ben",
+    "image": "https://images.unsplash.com/photo-1508931133503-66fadf46f2c4",
+    "place": "London, UK"
+  },
+  {
+    "id": 6,
+    "buildingName": "Colosseum",
+    "image": "https://images.unsplash.com/photo-1570186704531-26103d9f9986",
+    "place": "Rome, Italy"
+  },
+  {
+    "id": 7,
+    "buildingName": "Petronas Towers",
+    "image": "https://images.unsplash.com/photo-1549916179-7d00beefb0aa",
+    "place": "Kuala Lumpur, Malaysia"
+  },
+  {
+    "id": 8,
+    "buildingName": "Shanghai Tower",
+    "image": "https://images.unsplash.com/photo-1531816458010-50c4f22aa2be",
+    "place": "Shanghai, China"
+  },
+  {
+    "id": 9,
+    "buildingName": "The Shard",
+    "image": "https://images.unsplash.com/photo-1543872084-c7bd3822856d",
+    "place": "London, UK"
+  },
+  {
+    "id": 10,
+    "buildingName": "Taipei 101",
+    "image": "https://images.unsplash.com/photo-1526481280690-421771d727d7",
+    "place": "Taipei, Taiwan"
+  },
+  {
+    "id": 11,
+    "buildingName": "Marina Bay Sands",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+    "place": "Singapore"
+  },
+  {
+    "id": 12,
+    "buildingName": "Lotte World Tower",
+    "image": "https://images.unsplash.com/photo-1562410053-50b1ab4bfb12",
+    "place": "Seoul, South Korea"
+  },
+  {
+    "id": 13,
+    "buildingName": "The Gherkin",
+    "image": "https://images.unsplash.com/photo-1534119414531-7f7f5d0e297c",
+    "place": "London, UK"
+  },
+  {
+    "id": 14,
+    "buildingName": "One World Trade Center",
+    "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df",
+    "place": "New York, USA"
+  },
+  {
+    "id": 15,
+    "buildingName": "Lotus Temple",
+    "image": "https://images.unsplash.com/photo-1600948834715-c1479d8a06cc",
+    "place": "Delhi, India"
+  },
+  {
+    "id": 16,
+    "buildingName": "Leaning Tower of Pisa",
+    "image": "https://images.unsplash.com/photo-1551829142-3f7074c153b0",
+    "place": "Pisa, Italy"
+  },
+  {
+    "id": 17,
+    "buildingName": "Sagrada Família",
+    "image": "https://images.unsplash.com/photo-1571577340773-48055ce3a09f",
+    "place": "Barcelona, Spain"
+  },
+  {
+    "id": 18,
+    "buildingName": "The Pentagon",
+    "image": "https://images.unsplash.com/photo-1581349485183-746a8d313937",
+    "place": "Virginia, USA"
+  },
+  {
+    "id": 19,
+    "buildingName": "Tokyo Skytree",
+    "image": "https://images.unsplash.com/photo-1516534775068-ba3e7458af70",
+    "place": "Tokyo, Japan"
+  },
+  {
+    "id": 20,
+    "buildingName": "Qutub Minar",
+    "image": "https://images.unsplash.com/photo-1599917989271-52dcb01d7f0e",
+    "place": "Delhi, India"
+  }
+]

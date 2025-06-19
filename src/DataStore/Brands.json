@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Nike",
+    "link": "https://www.nike.com",
+    "image": "https://logo.clearbit.com/nike.com"
+  },
+  {
+    "id": 2,
+    "name": "Adidas",
+    "link": "https://www.adidas.com",
+    "image": "https://logo.clearbit.com/adidas.com"
+  },
+  {
+    "id": 3,
+    "name": "Apple",
+    "link": "https://www.apple.com",
+    "image": "https://logo.clearbit.com/apple.com"
+  },
+  {
+    "id": 4,
+    "name": "Samsung",
+    "link": "https://www.samsung.com",
+    "image": "https://logo.clearbit.com/samsung.com"
+  },
+  {
+    "id": 5,
+    "name": "Sony",
+    "link": "https://www.sony.com",
+    "image": "https://logo.clearbit.com/sony.com"
+  },
+  {
+    "id": 6,
+    "name": "Microsoft",
+    "link": "https://www.microsoft.com",
+    "image": "https://logo.clearbit.com/microsoft.com"
+  },
+  {
+    "id": 7,
+    "name": "Google",
+    "link": "https://www.google.com",
+    "image": "https://logo.clearbit.com/google.com"
+  },
+  {
+    "id": 8,
+    "name": "Amazon",
+    "link": "https://www.amazon.com",
+    "image": "https://logo.clearbit.com/amazon.com"
+  },
+  {
+    "id": 9,
+    "name": "Dell",
+    "link": "https://www.dell.com",
+    "image": "https://logo.clearbit.com/dell.com"
+  },
+  {
+    "id": 10,
+    "name": "HP",
+    "link": "https://www.hp.com",
+    "image": "https://logo.clearbit.com/hp.com"
+  },
+  {
+    "id": 11,
+    "name": "Lenovo",
+    "link": "https://www.lenovo.com",
+    "image": "https://logo.clearbit.com/lenovo.com"
+  },
+  {
+    "id": 12,
+    "name": "Asus",
+    "link": "https://www.asus.com",
+    "image": "https://logo.clearbit.com/asus.com"
+  },
+  {
+    "id": 13,
+    "name": "LG",
+    "link": "https://www.lg.com",
+    "image": "https://logo.clearbit.com/lg.com"
+  },
+  {
+    "id": 14,
+    "name": "Puma",
+    "link": "https://www.puma.com",
+    "image": "https://logo.clearbit.com/puma.com"
+  },
+  {
+    "id": 15,
+    "name": "Reebok",
+    "link": "https://www.reebok.com",
+    "image": "https://logo.clearbit.com/reebok.com"
+  },
+  {
+    "id": 16,
+    "name": "Under Armour",
+    "link": "https://www.underarmour.com",
+    "image": "https://logo.clearbit.com/underarmour.com"
+  },
+  {
+    "id": 17,
+    "name": "Zara",
+    "link": "https://www.zara.com",
+    "image": "https://logo.clearbit.com/zara.com"
+  },
+  {
+    "id": 18,
+    "name": "H&M",
+    "link": "https://www.hm.com",
+    "image": "https://logo.clearbit.com/hm.com"
+  },
+  {
+    "id": 19,
+    "name": "Netflix",
+    "link": "https://www.netflix.com",
+    "image": "https://logo.clearbit.com/netflix.com"
+  },
+  {
+    "id": 20,
+    "name": "Spotify",
+    "link": "https://www.spotify.com",
+    "image": "https://logo.clearbit.com/spotify.com"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id":1,
+    "productType": "Brick",
+    "name": "Anupam Upadhyay",
+    "email": "anupam@example.com",
+    "phone": "+91-9000000001",
+    "quantity": 5000,
+    "orderPrice": 2500
+  },
+  {
+    "productType": "Brick",
+    "name": "Ashish Upadhyay",
+    "email": "anupam@example.com",
+    "phone": "+91-9000000001",
+    "quantity": 5000,
+    "orderPrice": 2500
+  },
+  {
+    "productType": "Brick",
+    "name": "Vansh Singh",
+    "email": "vansh@example.com",
+    "phone": "+91-9000000002",
+    "quantity": 4000,
+    "orderPrice": 2000
+  },
+  {
+    "productType": "Brick",
+    "name": "Riya Sharma",
+    "email": "riya@example.com",
+    "phone": "+91-9000000003",
+    "quantity": 6000,
+    "orderPrice": 3000
+  },
+  {
+    "productType": "Brick",
+    "name": "Karan Mehta",
+    "email": "karan@example.com",
+    "phone": "+91-9000000004",
+    "quantity": 10000,
+    "orderPrice": 5000
+  },
+  {
+    "productType": "Brick",
+    "name": "Divya Jain",
+    "email": "divya@example.com",
+    "phone": "+91-9000000005",
+    "quantity": 3500,
+    "orderPrice": 1750
+  },
+  {
+    "productType": "Brick",
+    "name": "Rohit Verma",
+    "email": "rohit@example.com",
+    "phone": "+91-9000000006",
+    "quantity": 7000,
+    "orderPrice": 3500
+  },
+  {
+    "productType": "Brick",
+    "name": "Neha Kapoor",
+    "email": "neha@example.com",
+    "phone": "+91-9000000007",
+    "quantity": 8000,
+    "orderPrice": 4000
+  },
+  {
+    "productType": "Brick",
+    "name": "Amit Joshi",
+    "email": "amit@example.com",
+    "phone": "+91-9000000008",
+    "quantity": 4500,
+    "orderPrice": 2250
+  },
+  {
+    "productType": "Brick",
+    "name": "Pooja Yadav",
+    "email": "pooja@example.com",
+    "phone": "+91-9000000009",
+    "quantity": 6500,
+    "orderPrice": 3250
+  },
+  {
+    "productType": "Brick",
+    "name": "Siddharth Rao",
+    "email": "siddharth@example.com",
+    "phone": "+91-9000000010",
+    "quantity": 9000,
+    "orderPrice": 4500
+  },
+
+  {
+    "productType": "Tile",
+    "name": "Megha Patil",
+    "email": "megha@example.com",
+    "phone": "+91-9000000011",
+    "quantity": 2000,
+    "orderPrice": 1800
+  },
+  {
+    "productType": "Tile",
+    "name": "Raj Malhotra",
+    "email": "raj@example.com",
+    "phone": "+91-9000000012",
+    "quantity": 2500,
+    "orderPrice": 2250
+  },
+  {
+    "productType": "Tile",
+    "name": "Sneha Nair",
+    "email": "sneha@example.com",
+    "phone": "+91-9000000013",
+    "quantity": 1500,
+    "orderPrice": 1350
+  },
+  {
+    "productType": "Tile",
+    "name": "Yash Thakur",
+    "email": "yash@example.com",
+    "phone": "+91-9000000014",
+    "quantity": 3000,
+    "orderPrice": 2700
+  },
+  {
+    "productType": "Tile",
+    "name": "Prachi Desai",
+    "email": "prachi@example.com",
+    "phone": "+91-9000000015",
+    "quantity": 1200,
+    "orderPrice": 1080
+  },
+  {
+    "productType": "Tile",
+    "name": "Manish Kumar",
+    "email": "manish@example.com",
+    "phone": "+91-9000000016",
+    "quantity": 1800,
+    "orderPrice": 1620
+  },
+  {
+    "productType": "Tile",
+    "name": "Nikita Bhatt",
+    "email": "nikita@example.com",
+    "phone": "+91-9000000017",
+    "quantity": 2200,
+    "orderPrice": 1980
+  },
+  {
+    "productType": "Tile",
+    "name": "Arjun Singh",
+    "email": "arjun@example.com",
+    "phone": "+91-9000000018",
+    "quantity": 2800,
+    "orderPrice": 2520
+  },
+  {
+    "productType": "Tile",
+    "name": "Isha Aggarwal",
+    "email": "isha@example.com",
+    "phone": "+91-9000000019",
+    "quantity": 1900,
+    "orderPrice": 1710
+  },
+  {
+    "productType": "Tile",
+    "name": "Rahul Sharma",
+    "email": "rahul@example.com",
+    "phone": "+91-9000000020",
+    "quantity": 2600,
+    "orderPrice": 2340
+  }
+]

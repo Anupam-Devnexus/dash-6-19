@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "productType": "Cladding",
+    "title": "Terracotta Wall Cladding Tile",
+    "size": "300x75 mm",
+    "shape": "Rectangular",
+    "color": "Terracotta",
+    "supplyAbility": "25000 per month",
+    "minimumOrder": "200",
+    "productImage": "https://images.pexels.com/photos/691710/pexels-photo-691710.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 2,
+    "productType": "Roof",
+    "title": "Curved Roof Tile",
+    "size": "420x330 mm",
+    "shape": "Curved",
+    "color": "Red",
+    "supplyAbility": "40000 per month",
+    "minimumOrder": "500",
+    "productImage": "https://images.pexels.com/photos/220177/pexels-photo-220177.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 3,
+    "productType": "Terracotta",
+    "title": "Square Terracotta Tile",
+    "size": "300x300 mm",
+    "shape": "Square",
+    "color": "Terracotta",
+    "supplyAbility": "30000 per month",
+    "minimumOrder": "400",
+    "productImage": "https://images.pexels.com/photos/1088158/pexels-photo-1088158.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 4,
+    "productType": "Cladding",
+    "title": "Split Face Cladding Tile",
+    "size": "250x60 mm",
+    "shape": "Rectangular",
+    "color": "Grey",
+    "supplyAbility": "18000 per month",
+    "minimumOrder": "300",
+    "productImage": "https://images.pexels.com/photos/191400/pexels-photo-191400.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 5,
+    "productType": "Roof",
+    "title": "Flat Roof Tile",
+    "size": "400x250 mm",
+    "shape": "Flat",
+    "color": "Brown",
+    "supplyAbility": "35000 per month",
+    "minimumOrder": "450",
+    "productImage": "https://images.pexels.com/photos/963436/pexels-photo-963436.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 6,
+    "productType": "Terracotta",
+    "title": "Hex Terracotta Floor Tile",
+    "size": "200x200 mm",
+    "shape": "Hexagon",
+    "color": "Orange",
+    "supplyAbility": "26000 per month",
+    "minimumOrder": "350",
+    "productImage": "https://images.pexels.com/photos/1070345/pexels-photo-1070345.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 7,
+    "productType": "Cladding",
+    "title": "Natural Stone Finish Cladding Tile",
+    "size": "300x100 mm",
+    "shape": "Rectangular",
+    "color": "Beige",
+    "supplyAbility": "15000 per month",
+    "minimumOrder": "250",
+    "productImage": "https://images.pexels.com/photos/1070345/pexels-photo-1070345.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 8,
+    "productType": "Roof",
+    "title": "S-Shaped Roof Tile",
+    "size": "430x280 mm",
+    "shape": "S-Curve",
+    "color": "Red",
+    "supplyAbility": "47000 per month",
+    "minimumOrder": "600",
+    "productImage": "https://images.pexels.com/photos/1652544/pexels-photo-1652544.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 9,
+    "productType": "Terracotta",
+    "title": "Round Terracotta Tile",
+    "size": "300 mm diameter",
+    "shape": "Round",
+    "color": "Rust",
+    "supplyAbility": "14000 per month",
+    "minimumOrder": "200",
+    "productImage": "https://images.pexels.com/photos/220680/pexels-photo-220680.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 10,
+    "productType": "Cladding",
+    "title": "3D Texture Cladding Tile",
+    "size": "200x100 mm",
+    "shape": "Rectangular",
+    "color": "Grey",
+    "supplyAbility": "22000 per month",
+    "minimumOrder": "300",
+    "productImage": "https://images.pexels.com/photos/963436/pexels-photo-963436.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 11,
+    "productType": "Roof",
+    "title": "Traditional Clay Roof Tile",
+    "size": "410x300 mm",
+    "shape": "Curved",
+    "color": "Terracotta",
+    "supplyAbility": "30000 per month",
+    "minimumOrder": "500",
+    "productImage": "https://images.pexels.com/photos/1225284/pexels-photo-1225284.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 12,
+    "productType": "Terracotta",
+    "title": "Terracotta Brick Tile",
+    "size": "230x60 mm",
+    "shape": "Brick",
+    "color": "Red",
+    "supplyAbility": "20000 per month",
+    "minimumOrder": "350",
+    "productImage": "/images/tiles/brick-tile.jpg"
+  },
+  {
+    "id": 13,
+    "productType": "Cladding",
+    "title": "Slate Finish Cladding Tile",
+    "size": "300x75 mm",
+    "shape": "Rectangular",
+    "color": "Charcoal",
+    "supplyAbility": "24000 per month",
+    "minimumOrder": "300",
+    "productImage": "https://images.pexels.com/photos/1225284/pexels-photo-1225284.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 14,
+    "productType": "Roof",
+    "title": "Ridge Roof Tile",
+    "size": "460x200 mm",
+    "shape": "Ridge",
+    "color": "Dark Red",
+    "supplyAbility": "39000 per month",
+    "minimumOrder": "400",
+    "productImage": "https://images.pexels.com/photos/1225284/pexels-photo-1225284.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 15,
+    "productType": "Terracotta",
+    "title": "Textured Terracotta Tile",
+    "size": "300x300 mm",
+    "shape": "Square",
+    "color": "Rust Brown",
+    "supplyAbility": "28000 per month",
+    "minimumOrder": "400",
+    "productImage": "/images/tiles/textured-terracotta.jpg"
+  },
+  {
+    "id": 16,
+    "productType": "Cladding",
+    "title": "Wooden Finish Cladding Tile",
+    "size": "300x100 mm",
+    "shape": "Rectangular",
+    "color": "Wood",
+    "supplyAbility": "18000 per month",
+    "minimumOrder": "200",
+    "productImage": "/images/tiles/wood-cladding.jpg"
+  },
+  {
+    "id": 17,
+    "productType": "Roof",
+    "title": "Wave Roof Tile",
+    "size": "420x300 mm",
+    "shape": "Wave",
+    "color": "Brown",
+    "supplyAbility": "37000 per month",
+    "minimumOrder": "500",
+    "productImage": "/images/tiles/wave-roof.jpg"
+  },
+  {
+    "id": 18,
+    "productType": "Terracotta",
+    "title": "Engraved Terracotta Tile",
+    "size": "300x300 mm",
+    "shape": "Square",
+    "color": "Clay Red",
+    "supplyAbility": "23000 per month",
+    "minimumOrder": "300",
+    "productImage": "/images/tiles/engraved-terracotta.jpg"
+  },
+  {
+    "id": 19,
+    "productType": "Cladding",
+    "title": "Granite Effect Cladding Tile",
+    "size": "250x60 mm",
+    "shape": "Rectangular",
+    "color": "Dark Grey",
+    "supplyAbility": "17000 per month",
+    "minimumOrder": "250",
+    "productImage": "/images/tiles/granite-cladding.jpg"
+  }
+]

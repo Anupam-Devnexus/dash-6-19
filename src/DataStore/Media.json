@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "text": "Explore how green building technologies and eco-friendly designs are shaping the future of architecture.",
+    "image": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/green-building-future"
+  },
+  {
+    "id": 2,
+    "text": "From earthy tones to smart furniture, discover the interior design trends that are dominating 2025.",
+    "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/interior-trends-2025"
+  },
+  {
+    "id": 3,
+    "text": "Declutter your office and boost productivity with these minimalist workspace setup ideas.",
+    "image": "https://images.pexels.com/photos/706376/pexels-photo-706376.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/minimalist-office-setup"
+  },
+  {
+    "id": 4,
+    "text": "Learn about modern, durable, and energy-efficient roofing options for residential and commercial buildings.",
+    "image": "https://images.pexels.com/photos/209274/pexels-photo-209274.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/efficient-roofing-solutions"
+  },
+  {
+    "id": 5,
+    "text": "Discover how data and technology are transforming urban spaces into smart, connected cities.",
+    "image": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/smart-city-technology"
+  },
+  {
+    "id": 6,
+    "text": "Understand the key differences, costs, and benefits of renovating versus rebuilding.",
+    "image": "https://images.pexels.com/photos/3990359/pexels-photo-3990359.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/renovate-vs-rebuild"
+  },
+  {
+    "id": 7,
+    "text": "Learn how prefab construction is speeding up delivery, cutting costs, and offering eco-friendly solutions.",
+    "image": "https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/prefab-construction-benefits"
+  },
+  {
+    "id": 8,
+    "text": "From 3D-printed bricks to recycled concrete — the future of construction materials is exciting.",
+    "image": "https://images.pexels.com/photos/259957/pexels-photo-259957.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/future-construction-materials"
+  },
+  {
+    "id": 9,
+    "text": "How office design impacts mood, collaboration, and overall employee wellbeing.",
+    "image": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/office-design-wellbeing"
+  },
+  {
+    "id": 10,
+    "text": "Harnessing sunlight for aesthetics, energy savings, and wellbeing in building design.",
+    "image": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/sunlight-in-architecture"
+  },
+  {
+    "id": 11,
+    "text": "Explore the integration of biophilic design in commercial buildings to enhance wellness and productivity.",
+    "image": "https://images.pexels.com/photos/245240/pexels-photo-245240.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/biophilic-design-benefits"
+  },
+  {
+    "id": 12,
+    "text": "A beginner's guide to sustainable landscaping and green outdoor living spaces.",
+    "image": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/sustainable-landscaping-guide"
+  },
+  {
+    "id": 13,
+    "text": "Explore futuristic home automation and how AI is redefining modern living.",
+    "image": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/ai-home-automation"
+  },
+  {
+    "id": 14,
+    "text": "Designing inclusive spaces: How architecture can be more accessible and accommodating.",
+    "image": "https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/inclusive-architecture"
+  },
+  {
+    "id": 15,
+    "text": "Top 10 energy-efficient appliances every sustainable home should have in 2025.",
+    "image": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "link": "/blogs/energy-efficient-appliances"
+  }
+]
